@@ -12,5 +12,5 @@ Toushal29/... is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-- All prrojects found here: https://github.com/Toushal29/Toushal-Repo/tree/main/Project
+- 👀 Roadmap portfolio:
 - Project Single Page CV URL: https://roadmap.sh/projects/single-page-cv
