@@ -2,7 +2,7 @@ import random as r
 import time
 guess = []
 start_time = time.perf_counter()
-coordinates = (r.randint(0,100) , r.randint(0,100), r.randint(0,100))
+coordinates = (r.randint(0,100), r.randint(0,100), r.randint(0,100))
 x = r.randint(0,100)
 y = r.randint(0,100)
 z = r.randint(0,100)
