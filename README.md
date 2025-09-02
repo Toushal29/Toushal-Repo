@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Toushal
-- 💞️ I’m looking to collaborate on (not yet decided).
-- 📫 How to reach me through email.
-- 😄 Pronouns: why matter
+- 👋 Hi, I’m Toushal, currently studying CS.
 
 
 - 👀 Roadmap portfolio:
